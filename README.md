@@ -6,6 +6,7 @@ ipython notebooks with notes and experiments for deep learning. Mostly with kera
 
 - A [binary classification](binary_classification.ipynb) for movie 🎥 reviews based on the IMDB dataset.
 - A [multiclass classification](multiclass_classification.ipynb) for newswires 🗞 based on the Reuters dataset.
+- A [regression](regression.ipynb) for predicting house prices 🏡 based on the Boston housing dataset.
 
 ### How to take a look
 
