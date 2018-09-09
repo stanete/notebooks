@@ -8,7 +8,7 @@ ipython notebooks with notes and experiments for deep learning. Mostly with kera
 - A [multiclass classification](multiclass_classification.ipynb) for newswires 🗞 based on the Reuters dataset.
 - A [regression](regression.ipynb) for predicting house prices 🏡 based on the Boston housing dataset.
 
-### How to take a look
+### How to play with the notebooks
 
 1. Install [docker](https://www.docker.com/) 🐳.
 2. Clone this repository and run:
