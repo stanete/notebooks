@@ -1,6 +1,6 @@
 ## notebooks 📓
 
-ipython notebooks that contain notes and experiments for deep learning. Mostly with keras and tensorflow.
+ipython notebooks with notes and experiments for deep learning. Mostly with keras and tensorflow.
 
 ### How to take a look
 
