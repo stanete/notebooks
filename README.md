@@ -4,7 +4,8 @@ ipython notebooks with notes and experiments for deep learning. Mostly with kera
 
 ### What can you find
 
-- A [binary classification](binary_classification.ipynb) for movie 🎥 reviews based on the imdb dataset.
+- A [binary classification](binary_classification.ipynb) for movie 🎥 reviews based on the IMDB dataset.
+- A [multiclass classification](multiclass_classification.ipynb) for newswires 🗞 based on the Reuters dataset.
 
 ### How to take a look
 
