@@ -8,6 +8,7 @@ ipython notebooks with notes on my machine learning journey and deep learning ex
 - A [multiclass classification](multiclass_classification.ipynb) for newswires 🗞 based on the Reuters dataset.
 - A [regression](regression.ipynb) for predicting house prices 🏡 based on the Boston housing dataset.
 - A [binary classification](convolutional_neural_networks.ipynb) for distinguishing between cats 🐈 and dogs 🐕 pictures using a **CNN**.
+- A [word embedding](word_embeddings.ipynb) for converting raw text movie 🎥 reviews to dense word vectors.
 
 ### How to play with the notebooks
 
